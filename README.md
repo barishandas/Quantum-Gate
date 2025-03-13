@@ -79,21 +79,5 @@ results = calibrator.compare_optimization_methods(
 - Development of error-robust gate operations
 - Research into sample-efficient characterization of quantum devices
 
-## Citation
-If you use this code in your research, please cite:
-```
-@misc{QuantumGateCalibration2025,
-  author = {Your Name},
-  title = {Sample-Efficient Adaptive Quantum Gate Calibration Framework},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/username/quantum-gate-calibration}}
-}
-```
-
-## License
-MIT
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
